@@ -1,7 +1,7 @@
 # cs340-grazioso-salvare-dashboard
 **Author:** Chris Phillips  
 **Course:** CS-340: Client/Server Development
-## 🧩 How do you write programs that are maintainable, readable, and adaptable?
+## How do you write programs that are maintainable, readable, and adaptable?
 
 I designed the project with clear separation of concerns:
 
@@ -13,7 +13,7 @@ I designed the project with clear separation of concerns:
 
 ---
 
-## 🧠 How do you approach a problem as a computer scientist?
+## How do you approach a problem as a computer scientist?
 
 I started by translating client requirements into **data predicates** and UI behaviors:
 
@@ -30,7 +30,7 @@ Compared to earlier assignments, this project required **full-stack cohesion**: 
 
 ---
 
-## 🌍 What do computer scientists do, and why does it matter?
+## What do computer scientists do, and why does it matter?
 
 Computer scientists turn fuzzy goals into reliable systems. In this case, the dashboard helps Grazioso Salvare:
 - **Find candidates faster**: Filter by traits that correlate with rescue success.  
@@ -42,7 +42,7 @@ This kind of work matters because it converts raw data into **actionable insight
 
 ---
 
-## 🚀 Reproduce / Run
+## Reproduce / Run
 
 **Requirements:** Python 3.10+, MongoDB, and the modified AAC CSV.
 
